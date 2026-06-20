@@ -1,7 +1,14 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500">
+  <img src="https://user-images.githubusercontent.com/74038190/212749695-7c478c9c-4f2d-4f4c-b4df-8f8fdf1f8c5d.gif" width="500">
 </p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216656971-9a4d7f0e-8c8b-4d5f-9d0c-2d7fd85f6b2d.gif" width="500">
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212744275-2d8f1d8f-cb6d-4b6b-92a7-f3c8b80b9d4d.gif" width="500">
+</p>
 <h1 align="center">Hi , I'm Sharumathan Mathivathanan</h1>
 
 <h3 align="center">
