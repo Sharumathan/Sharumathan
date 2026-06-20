@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi , I'm Sharumathan Mathivathanan</h1>
 <p align="right">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="250">
+  <img src="https://media.giphy.com/media/SOME_STICKER_ID/giphy.gif" width="200">
 </p>
 <h3 align="center">
 Associate Data Engineer @ Creative Software 🚀 <br>
