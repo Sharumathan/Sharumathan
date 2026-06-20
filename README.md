@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500">
+</p>
+
 <h1 align="center">Hi , I'm Sharumathan Mathivathanan</h1>
 
 <h3 align="center">
