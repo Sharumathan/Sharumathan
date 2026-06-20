@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749695-7c478c9c-4f2d-4f4c-b4df-8f8fdf1f8c5d.gif" width="500">
-</p>
-
 
 <h1 align="center">Hi , I'm Sharumathan Mathivathanan</h1>
 
